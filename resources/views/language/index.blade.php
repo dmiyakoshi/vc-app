@@ -14,7 +14,7 @@
             {{ $lang }}
         </li>
         @endforeach
-    </ul>
+    </ul> 
 </body>
 
 </html>
